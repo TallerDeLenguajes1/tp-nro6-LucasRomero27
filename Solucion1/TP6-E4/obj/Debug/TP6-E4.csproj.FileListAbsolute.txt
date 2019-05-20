@@ -1,0 +1,7 @@
+F:\Taller C#\Solucion1\TP6-E4\obj\Debug\TP6-E4.csprojAssemblyReference.cache
+F:\Taller C#\Solucion1\TP6-E4\obj\Debug\TP6-E4.csproj.CoreCompileInputs.cache
+F:\Taller C#\Solucion1\TP6-E4\bin\Debug\TP6-E4.exe.config
+F:\Taller C#\Solucion1\TP6-E4\bin\Debug\TP6-E4.exe
+F:\Taller C#\Solucion1\TP6-E4\bin\Debug\TP6-E4.pdb
+F:\Taller C#\Solucion1\TP6-E4\obj\Debug\TP6-E4.exe
+F:\Taller C#\Solucion1\TP6-E4\obj\Debug\TP6-E4.pdb

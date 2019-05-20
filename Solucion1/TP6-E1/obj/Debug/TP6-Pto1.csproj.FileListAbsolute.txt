@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\bin\Debug\TP6-Pto1.exe.config
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\bin\Debug\TP6-Pto1.exe
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\bin\Debug\TP6-Pto1.pdb
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\obj\Debug\TP6-Pto1.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\obj\Debug\TP6-Pto1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\obj\Debug\TP6-Pto1.exe
+C:\Users\usuario\Desktop\Nueva carpeta\LUCAS URA\Solucion1\TP6-E1\obj\Debug\TP6-Pto1.pdb

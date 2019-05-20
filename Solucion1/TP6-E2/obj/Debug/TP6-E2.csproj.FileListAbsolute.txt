@@ -1,0 +1,11 @@
+C:\Users\Alumno\Desktop\TP6\tp-nro6-AgussRomero22\Solucion1\TP6-E2\bin\Debug\TP6-E2.exe.config
+C:\Users\Alumno\Desktop\TP6\tp-nro6-AgussRomero22\Solucion1\TP6-E2\bin\Debug\TP6-E2.exe
+C:\Users\Alumno\Desktop\TP6\tp-nro6-AgussRomero22\Solucion1\TP6-E2\bin\Debug\TP6-E2.pdb
+C:\Users\Alumno\Desktop\TP6\tp-nro6-AgussRomero22\Solucion1\TP6-E2\obj\Debug\TP6-E2.exe
+C:\Users\Alumno\Desktop\TP6\tp-nro6-AgussRomero22\Solucion1\TP6-E2\obj\Debug\TP6-E2.pdb
+E:\Taller C#\Solucion1\TP6-E2\bin\Debug\TP6-E2.exe.config
+E:\Taller C#\Solucion1\TP6-E2\obj\Debug\TP6-E2.exe
+E:\Taller C#\Solucion1\TP6-E2\obj\Debug\TP6-E2.pdb
+E:\Taller C#\Solucion1\TP6-E2\obj\Debug\TP6-E2.csprojResolveAssemblyReference.cache
+E:\Taller C#\Solucion1\TP6-E2\bin\Debug\TP6-E2.exe
+E:\Taller C#\Solucion1\TP6-E2\bin\Debug\TP6-E2.pdb
